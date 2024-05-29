@@ -1,4 +1,13 @@
-# D-Healthcare
+Patient health data is very sensitive and digitization of healthcare data has led to increased concerns regarding patient privacy, data security, and control over personal health information.
+Healthcare organizations face numerous obstacles, including unauthorized access to sensitive patient information, data breaches, lack of transparency in data sharing, and difficulties in achieving regulatory compliance.
+This project proposes a solution that uses the decentralized and immutable nature of Blockchain technology, integrated with the distributed storage capabilities of the InterPlanetary File System (IPFS), to address these challenges effectively. In this project, we aim to design and implement a blockchain based system that prioritizes patient control and ownership of their health data.
+Through the utilization of blockchain technology, patients are empowered with control over their data, granting them the ability to selectively share their health information with healthcare providers and other authorized parties.
+The integration of IPFS with blockchain technology provides a distributed storage layer for encrypted health records and secure data sharing among healthcare providers while maintaining patient privacy.
+We also developed smart contracts, encryption mechanisms, and user-friendly interfaces for patients and healthcare providers.
+By adopting a patient-centric approach, we aim to enhance patient engagement, enable personalized healthcare, and improve health outcomes.
+Patients will have increased access to their health data, enabling them to make informed and participate in their own.
+
+Also called as "D-Healthcare"
 
 D-Healthcare is a blockchain-based decentralized application for storing and sharing of EMR (Electronic Medical Records) of patients. It provides an end-to-end solution for a healthcare system while securely storing patient medical records, and giving patients control over their data.
 
